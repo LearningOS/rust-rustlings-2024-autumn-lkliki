@@ -39,7 +39,7 @@ impl Package {
         self.weight_in_grams * cents_per_gram
     }
 }
-//123
+
 #[cfg(test)]
 mod tests {
     use super::*;
